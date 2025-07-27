@@ -8,3 +8,6 @@ A project co-made by me and @Rosshana-raj for the CS Girlies Beginner-friendly H
 - Art Studio software
   
 Finally builttt yippeee
+
+## REPO?
+So this isn't for playable purposes since the files too big to upload here... rather its to show the code to the CS Girlies committee hey😜🫶 sorry guys ;/
